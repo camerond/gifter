@@ -1,0 +1,31 @@
+/* line 1, /Users/camerondaigle/Projects/gifter/source/stylesheets/all.sass */
+body {
+  background: #ba422f;
+  color: white;
+  font-family: Helvetica;
+  font-weight: bold;
+  text-align: center;
+  padding: 40px; }
+
+/* line 9, /Users/camerondaigle/Projects/gifter/source/stylesheets/all.sass */
+h1 {
+  font-size: 40px; }
+
+/* line 12, /Users/camerondaigle/Projects/gifter/source/stylesheets/all.sass */
+input {
+  border: none;
+  background: #ecd7d7;
+  color: #dd0000;
+  padding: 20px 60px;
+  font-size: 20px;
+  cursor: pointer; }
+  /* line 19, /Users/camerondaigle/Projects/gifter/source/stylesheets/all.sass */
+  input:hover {
+    background: white; }
+  /* line 21, /Users/camerondaigle/Projects/gifter/source/stylesheets/all.sass */
+  input:focus {
+    outline: none; }
+
+/* line 24, /Users/camerondaigle/Projects/gifter/source/stylesheets/all.sass */
+#output {
+  font-size: 20px; }
