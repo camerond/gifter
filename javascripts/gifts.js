@@ -16,9 +16,9 @@
         ["Autumn", "Skye"],
         ["Olive", "Freddie"],
         ["Olive", "Reid"],
-        ["Freddie", "Reid"]
-        ["Izzy", "Olive"]
-        ["Izzy", "Freddie"]
+        ["Freddie", "Reid"],
+        ["Izzy", "Olive"],
+        ["Izzy", "Freddie"],
         ["Izzy", "Reid"]
       ]
     }
