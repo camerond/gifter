@@ -1,8 +1,8 @@
 (function() {
   var data = {
     "kids": {
-      names: ["Shannon", "Cameron", "Zach", "Jillie", "Kyleigh", "Phoebe", "Brooks", "Adam", "Josiah", "Owen"],
-      illegal_pairs: [["Shannon", "Cameron"], ["Zach", "Jillie"], ["Phoebe", "Adam"]]
+      names: ["Shannon", "Cameron", "Zach", "Jillie", "Kyleigh", "Phoebe", "Brooks", "Adam", "Josiah", "Owen", "Mike"],
+      illegal_pairs: [["Shannon", "Cameron"], ["Zach", "Jillie"], ["Phoebe", "Adam"], ["Kyleigh", "Mike"]]
     },
     "grandkids": {
       names: ["Archer", "Felix", "Piper", "Autumn", "Clover", "Landry", "Olive", "Freddie", "Reid", "Skye", "Izzy"],
