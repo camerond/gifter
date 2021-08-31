@@ -1,8 +1,8 @@
 (function() {
   var data = {
     "kids": {
-      names: ["Shannon", "Cameron", "Zach", "Jillie", "Kyleigh", "Phoebe", "Brooks", "Adam", "Josiah", "Owen", "Mike"],
-      illegal_pairs: [["Shannon", "Cameron"], ["Zach", "Jillie"], ["Phoebe", "Adam"], ["Kyleigh", "Mike"]]
+      names: ["Shannon", "Cameron", "Zach", "Jillie", "Kyleigh", "Phoebe", "Brooks", "Adam", "Josiah", "Owen", "Mike", "Sophie"],
+      illegal_pairs: [["Shannon", "Cameron"], ["Zach", "Jillie"], ["Phoebe", "Adam"], ["Kyleigh", "Mike"], ["Josiah", "Sophie"]]
     },
     "grandkids": {
       names: ["Archer", "Felix", "Piper", "Autumn", "Clover", "Landry", "Olive", "Freddie", "Reid", "Skye", "Izzy"],
@@ -19,7 +19,11 @@
         ["Freddie", "Reid"],
         ["Izzy", "Olive"],
         ["Izzy", "Freddie"],
-        ["Izzy", "Reid"]
+        ["Izzy", "Reid"],
+        ["Eliza", "Olive"],
+        ["Eliza", "Izzy"],
+        ["Eliza", "Reid"],
+        ["Eliza", "Freddie"]
       ]
     }
   };
