@@ -5,7 +5,7 @@
       illegal_pairs: [["Shannon", "Cameron"], ["Zach", "Jillie"], ["Phoebe", "Adam"], ["Kyleigh", "Mike"], ["Josiah", "Sophie"]]
     },
     "grandkids": {
-      names: ["Archer", "Felix", "Piper", "Autumn", "Clover", "Landry", "Olive", "Freddie", "Reid", "Skye", "Izzy"],
+      names: ["Archer", "Felix", "Piper", "Autumn", "Clover", "Landry", "Olive", "Freddie", "Reid", "Skye", "Izzy", "Eliza"],
       illegal_pairs: [
         ["Archer", "Felix"],
         ["Clover", "Skye"],
